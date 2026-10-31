@@ -1,0 +1,12 @@
+OpenNOW-Chrome/
+│
+├── manifest.json
+├── popup.html
+├── popup.js
+├── background.js
+├── content.js
+├── styles.css
+├── assets/
+│   ├── logo.png
+│   └── icon128.png
+└── README.md 
